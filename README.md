@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 오픈소스
-- 🌱 I’m currently learning ... sw
+- 🌱 I’m currently learning ... swdqedfwf
 - 👯 I’m looking to collaborate on ... cs
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
